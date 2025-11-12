@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.atashitech.itsme",
+    "sha256_cert_fingerprints": [
+      "30:4D:5D:2A:BB:8A:03:3B:1B:07:CE:CA:63:5B:E5:FA:4D:A0:77:92:F8:69:9C:EE:EE:89:A8:71:09:DB:32:30"
+    ]
+  }
+}]
